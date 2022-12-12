@@ -1,0 +1,14 @@
+{
+    "basic" : {
+        "token" : "",
+        "guild_id" : "",
+        "role_id" : "",
+        "channel_id" : ""
+    },
+    "sql" : {
+        "host" : "",
+        "user" : "",
+        "password" : "",
+        "db_name" : ""
+    }
+}
