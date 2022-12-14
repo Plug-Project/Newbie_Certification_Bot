@@ -1,9 +1,7 @@
 {
     "basic" : {
         "token" : "",
-        "guild_id" : "",
         "role_id" : "",
-        "channel_id" : ""
     },
     "sql" : {
         "host" : "127.0.0.1",
