@@ -1,4 +1,4 @@
-from Moduels_Basic import *
+from Modules.Modules_Basics import *
 
 with open(fr"./Json/Setting.json", 'r', encoding='utf-8') as f:
     haley = json.load(f)
