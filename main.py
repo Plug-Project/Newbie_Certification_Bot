@@ -1,4 +1,4 @@
-from Modules.Moduels_Basic import *
+from Modules.Modules_Basic import *
 
 GUILD_ID = id
 
